@@ -21,3 +21,12 @@ This repository contains the source code for my **Web Development college assign
 1. Clone this repository:
    ```bash
    git clone https://github.com/saurabh54-e/Web_dev_assignment1.git
+2. Open the HTML files in any browser to view the portfolio.
+
+Screenshots
+(Screenshots of the website layout are included in the repository)
+
+Author
+Saurabh
+Pursuing B.Tech in Computer Science and Engineering
+Passionate about Web Development and Software Engineering
